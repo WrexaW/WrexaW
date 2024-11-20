@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Full-Stack developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrexaw&label=Profile%20views&color=0e75b6&style=flat" alt="wrexaw" /> </p>
-
+<img align=right alt =WrexaW width=220 src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 - 👨‍💻 All of my projects are available at [WrexaW](WrexaW)
 
 - 📫 How to reach me **xboxrexaGmail.com**
 
-<img align=right alt =WrexaW width=220 src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+
 
 <p align="left">
 </p>
