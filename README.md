@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **xboxrexaGmail.com**
 
+<img align=rigth alt =WrexaW width=220 src"https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw31e8u8CpdmCPxyfTJHkquT&ust=1732202948700000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi2juH8nOuJAxUS3gIHHYbrJy4QjRx6BAgAEBg">
 
 <p align="left">
 </p>
