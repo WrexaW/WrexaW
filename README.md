@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrexaw&label=Profile%20views&color=0e75b6&style=flat" alt="wrexaw" /> </p>
-<img align=right alt =WrexaW width=320 src="https://clasherbros.github.io/images/giphy.gif">
+<img align=right alt =WrexaW width=220 src="https://clasherbros.github.io/images/giphy.gif">
 
 - 👨‍💻 All of my projects are available at [WrexaW](WrexaW)
 
